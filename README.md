@@ -2,7 +2,7 @@
 Slider module for website
 
 This module is intended to implement a slider on a website page.
-The module is implemented in a native Java script, using the ES6 standard. Slider in the form of a carousel.
+The module is implemented in a native JavaScript, using the ES6 standard. Slider in the form of a carousel.
 
 Usage:
 
